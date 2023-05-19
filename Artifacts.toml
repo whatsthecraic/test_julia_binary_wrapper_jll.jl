@@ -1,0 +1,103 @@
+[[test_julia_binary_builder]]
+arch = "aarch64"
+git-tree-sha1 = "2fd46632fe0e27040da68eb0eeef74fa6aac745e"
+libc = "glibc"
+os = "linux"
+
+    [[test_julia_binary_builder.download]]
+    sha256 = "e638b7e3455a4dcccd0c3ca019bcd00c55e182880c26a876c700dd2b1ced7cee"
+    url = "https://github.com/whatsthecraic/test_julia_binary_wrapper_jll.jl/releases/download/test_julia_binary_builder-v0.1.0+0/test_julia_binary_builder.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[test_julia_binary_builder]]
+arch = "aarch64"
+git-tree-sha1 = "f051bf141082f6d28aa19dbf49d98f41b4d91e1b"
+libc = "musl"
+os = "linux"
+
+    [[test_julia_binary_builder.download]]
+    sha256 = "48088b3527205a70e7545dc2990fd44c730d0324598097bce9b4897ae27168df"
+    url = "https://github.com/whatsthecraic/test_julia_binary_wrapper_jll.jl/releases/download/test_julia_binary_builder-v0.1.0+0/test_julia_binary_builder.v0.1.0.aarch64-linux-musl.tar.gz"
+[[test_julia_binary_builder]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "95fc92fde57a3b8ab370749fac32d939108891ef"
+libc = "glibc"
+os = "linux"
+
+    [[test_julia_binary_builder.download]]
+    sha256 = "ddfb5b0d27c78516625501a704fc3ce2edff9ae6cd4bfa6f139121f9408b750c"
+    url = "https://github.com/whatsthecraic/test_julia_binary_wrapper_jll.jl/releases/download/test_julia_binary_builder-v0.1.0+0/test_julia_binary_builder.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[test_julia_binary_builder]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "55d6c1f4f39a0ed7a351f90d06c879791cbcf8b7"
+libc = "musl"
+os = "linux"
+
+    [[test_julia_binary_builder.download]]
+    sha256 = "2650d9a7c8c7a243d9f53f55e1819b31b33e3f423a77f85f90f1217a01d1bf14"
+    url = "https://github.com/whatsthecraic/test_julia_binary_wrapper_jll.jl/releases/download/test_julia_binary_builder-v0.1.0+0/test_julia_binary_builder.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+[[test_julia_binary_builder]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "eeaa97b7bf4a9fc55378a8e9f280d27cf50eefb5"
+libc = "glibc"
+os = "linux"
+
+    [[test_julia_binary_builder.download]]
+    sha256 = "011b0752146b69e931f02d4d87db3115d152edf04e23ad063c91052fe614e372"
+    url = "https://github.com/whatsthecraic/test_julia_binary_wrapper_jll.jl/releases/download/test_julia_binary_builder-v0.1.0+0/test_julia_binary_builder.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[test_julia_binary_builder]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "eb1654c0460dbd10eea8b672dc2c44482a395ecc"
+libc = "musl"
+os = "linux"
+
+    [[test_julia_binary_builder.download]]
+    sha256 = "59e5282b8c15fc776deae765b72113aa505ac7cef1038ce53e1edab5173e71a2"
+    url = "https://github.com/whatsthecraic/test_julia_binary_wrapper_jll.jl/releases/download/test_julia_binary_builder-v0.1.0+0/test_julia_binary_builder.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[test_julia_binary_builder]]
+arch = "i686"
+git-tree-sha1 = "0371cef9db0d54de163680b72f39963eb8b64926"
+libc = "glibc"
+os = "linux"
+
+    [[test_julia_binary_builder.download]]
+    sha256 = "0364bb7ef927e8c45febd1331167c89219448eceabe42255d9fd251ecacac7c6"
+    url = "https://github.com/whatsthecraic/test_julia_binary_wrapper_jll.jl/releases/download/test_julia_binary_builder-v0.1.0+0/test_julia_binary_builder.v0.1.0.i686-linux-gnu.tar.gz"
+[[test_julia_binary_builder]]
+arch = "i686"
+git-tree-sha1 = "50863ef43882d40195b26758dbe6e41c94e36771"
+libc = "musl"
+os = "linux"
+
+    [[test_julia_binary_builder.download]]
+    sha256 = "1a44524abb74d9a4eda56ff0c395413a5aa0c49fbc00236d218942276edf70bf"
+    url = "https://github.com/whatsthecraic/test_julia_binary_wrapper_jll.jl/releases/download/test_julia_binary_builder-v0.1.0+0/test_julia_binary_builder.v0.1.0.i686-linux-musl.tar.gz"
+[[test_julia_binary_builder]]
+arch = "powerpc64le"
+git-tree-sha1 = "e3f8fc9d26d73e0503c65d6cabd4357b8263fb44"
+libc = "glibc"
+os = "linux"
+
+    [[test_julia_binary_builder.download]]
+    sha256 = "4dd808b925986c65a6a6b041a118ec24efe550b4b15bcb54a0df950631b62ec5"
+    url = "https://github.com/whatsthecraic/test_julia_binary_wrapper_jll.jl/releases/download/test_julia_binary_builder-v0.1.0+0/test_julia_binary_builder.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[test_julia_binary_builder]]
+arch = "x86_64"
+git-tree-sha1 = "e101e4a7819ffbbc4f3d266c3516a1b4b4e046c4"
+libc = "glibc"
+os = "linux"
+
+    [[test_julia_binary_builder.download]]
+    sha256 = "60201e6dc77d63462a94d6e004a950931fc8a418875489fa52ef9f27480c9d38"
+    url = "https://github.com/whatsthecraic/test_julia_binary_wrapper_jll.jl/releases/download/test_julia_binary_builder-v0.1.0+0/test_julia_binary_builder.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[test_julia_binary_builder]]
+arch = "x86_64"
+git-tree-sha1 = "19ad40ac3a920ae21ebeb45d3b1acfec8ee71309"
+libc = "musl"
+os = "linux"
+
+    [[test_julia_binary_builder.download]]
+    sha256 = "515ee6b181568c4bf7bd98818a05c6c98db477a2f5a588e4a837662a9086084a"
+    url = "https://github.com/whatsthecraic/test_julia_binary_wrapper_jll.jl/releases/download/test_julia_binary_builder-v0.1.0+0/test_julia_binary_builder.v0.1.0.x86_64-linux-musl.tar.gz"
